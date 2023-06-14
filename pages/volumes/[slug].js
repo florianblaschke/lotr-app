@@ -13,8 +13,6 @@ export default function ReturnOfTheKing() {
       return true;
     }
   });
-  console.log("index", index);
-  console.log("hello", fellowship);
 
   if (!fellowship) {
     return null;
