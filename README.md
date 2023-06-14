@@ -1,6 +1,6 @@
 # New Project
 
-This project was created from the neue fische next template.
+This project was created from the neue fische next template. BUT NOW ITS MINE! MYYYYYYY PRECIOUS!
 
 ## Development
 
